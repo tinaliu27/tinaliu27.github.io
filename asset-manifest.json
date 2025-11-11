@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/tinaliu27.github.io/static/css/main.ccb54d1b.css",
-    "main.js": "/tinaliu27.github.io/static/js/main.7108f6a2.js",
+    "main.css": "/tinaliu27.github.io/static/css/main.f0459dc6.css",
+    "main.js": "/tinaliu27.github.io/static/js/main.5ae381dd.js",
     "static/js/453.117b0875.chunk.js": "/tinaliu27.github.io/static/js/453.117b0875.chunk.js",
+    "static/media/ubc.png": "/tinaliu27.github.io/static/media/ubc.b2b1a7a228bdb65f532e.png",
+    "static/media/profilePhotoCircles.png": "/tinaliu27.github.io/static/media/profilePhotoCircles.f4b48827efb6a37a3b72.png",
+    "static/media/nusLight.png": "/tinaliu27.github.io/static/media/nusLight.7a428e53d57c99eefdea.png",
     "static/media/Tianai_Liu_Data.pdf": "/tinaliu27.github.io/static/media/Tianai_Liu_Data.13905f76f2847e75ff47.pdf",
     "static/media/linkedin.png": "/tinaliu27.github.io/static/media/linkedin.568e7065dfbbe9e23186.png",
     "static/media/logo.svg": "/tinaliu27.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tinaliu27.github.io/index.html",
-    "main.ccb54d1b.css.map": "/tinaliu27.github.io/static/css/main.ccb54d1b.css.map",
-    "main.7108f6a2.js.map": "/tinaliu27.github.io/static/js/main.7108f6a2.js.map",
+    "main.f0459dc6.css.map": "/tinaliu27.github.io/static/css/main.f0459dc6.css.map",
+    "main.5ae381dd.js.map": "/tinaliu27.github.io/static/js/main.5ae381dd.js.map",
     "453.117b0875.chunk.js.map": "/tinaliu27.github.io/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccb54d1b.css",
-    "static/js/main.7108f6a2.js"
+    "static/css/main.f0459dc6.css",
+    "static/js/main.5ae381dd.js"
   ]
 }
