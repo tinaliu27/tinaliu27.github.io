@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.613b3cb3.css",
-    "main.js": "/my-app/static/js/main.89f52a9b.js",
-    "static/js/453.117b0875.chunk.js": "/my-app/static/js/453.117b0875.chunk.js",
-    "static/media/ubc.png": "/my-app/static/media/ubc.b2b1a7a228bdb65f532e.png",
-    "static/media/profilePhotoCircles.png": "/my-app/static/media/profilePhotoCircles.f4b48827efb6a37a3b72.png",
-    "static/media/nusLight.png": "/my-app/static/media/nusLight.7a428e53d57c99eefdea.png",
-    "static/media/Tianai_Liu_PM.pdf": "/my-app/static/media/Tianai_Liu_PM.3da45188f675a4d73db0.pdf",
-    "static/media/Tianai_Liu_Consulting.pdf": "/my-app/static/media/Tianai_Liu_Consulting.069a0122196a60023357.pdf",
-    "static/media/Tianai_Liu_Data.pdf": "/my-app/static/media/Tianai_Liu_Data.13905f76f2847e75ff47.pdf",
-    "static/media/Tianai_Liu_SWE.pdf": "/my-app/static/media/Tianai_Liu_SWE.c16f81d34dc2552746dc.pdf",
-    "static/media/linkedin.png": "/my-app/static/media/linkedin.568e7065dfbbe9e23186.png",
-    "static/media/spotify.png": "/my-app/static/media/spotify.d20040eb234467fc5327.png",
-    "static/media/rbc.png": "/my-app/static/media/rbc.dc3d011cb91936f9d668.png",
-    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-app/index.html",
-    "main.613b3cb3.css.map": "/my-app/static/css/main.613b3cb3.css.map",
-    "main.89f52a9b.js.map": "/my-app/static/js/main.89f52a9b.js.map",
-    "453.117b0875.chunk.js.map": "/my-app/static/js/453.117b0875.chunk.js.map"
+    "main.css": "/static/css/main.613b3cb3.css",
+    "main.js": "/static/js/main.04c2e33a.js",
+    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
+    "static/media/ubc.png": "/static/media/ubc.b2b1a7a228bdb65f532e.png",
+    "static/media/profilePhotoCircles.png": "/static/media/profilePhotoCircles.f4b48827efb6a37a3b72.png",
+    "static/media/nusLight.png": "/static/media/nusLight.7a428e53d57c99eefdea.png",
+    "static/media/Tianai_Liu_PM.pdf": "/static/media/Tianai_Liu_PM.3da45188f675a4d73db0.pdf",
+    "static/media/Tianai_Liu_Consulting.pdf": "/static/media/Tianai_Liu_Consulting.069a0122196a60023357.pdf",
+    "static/media/Tianai_Liu_Data.pdf": "/static/media/Tianai_Liu_Data.13905f76f2847e75ff47.pdf",
+    "static/media/Tianai_Liu_SWE.pdf": "/static/media/Tianai_Liu_SWE.c16f81d34dc2552746dc.pdf",
+    "static/media/linkedin.png": "/static/media/linkedin.568e7065dfbbe9e23186.png",
+    "static/media/spotify.png": "/static/media/spotify.d20040eb234467fc5327.png",
+    "static/media/rbc.png": "/static/media/rbc.dc3d011cb91936f9d668.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.613b3cb3.css.map": "/static/css/main.613b3cb3.css.map",
+    "main.04c2e33a.js.map": "/static/js/main.04c2e33a.js.map",
+    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.613b3cb3.css",
-    "static/js/main.89f52a9b.js"
+    "static/js/main.04c2e33a.js"
   ]
 }
