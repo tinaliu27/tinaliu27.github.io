@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scrollbar-gutter: stable;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Theme-aware variables (set by App) */
+:root {
+  --bg: #FFF8E7;
+  --text: #291C15;
+  --header-bg: var(--bg);
+  --header-text: var(--text);
+  --link-text: var(--text);
+}
+
+/* Apply background and text color to the page */
+html, body, #root {
+  height: 100%;
+}
+body {
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* Make sure default links inherit the page text color unless overridden */
+a {
+  color: inherit;
+}
